@@ -1,5 +1,5 @@
 # Final-Project-Fitness-App
-Link to presentation video:
+Link to presentation video: https://youtu.be/aSXYzGyhILY?si=bcV28LZ3Z0QDu-Jy
 # Workout Tracker
 
 A modern web application for tracking your daily workouts and discovering new exercises. Built with Vue.js and ExerciseDB API.
